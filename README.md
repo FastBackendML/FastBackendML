@@ -39,5 +39,5 @@ To become a remote ML backend engineer, building efficient and scalable systems.
 📫 Connect with me:
 
 • GitHub: https://github.com/FastBackendML
-
+• Kaggle: https://www.kaggle.com/nikitaminenkov
 • LinkedIn: https://www.linkedin.com/in/nikita-minenkov-578b87243/
