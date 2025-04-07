@@ -1,4 +1,3 @@
-Here’s a short and structured GitHub README for your profile:
 
 Hi there! 👋
 
